@@ -24,11 +24,17 @@ This repository contains realistic manufacturing use cases that apply Pugh analy
 This method helps in finding a solution by asking questions about existing products in a different SCAMPER categories. These questions help us come up with creative ideas for developing new products and for improving current ones
 
 **S** - Substitute
+
 **C** - Combine
+
 **A** - Adapt
+
 **M** - Modify
+
 **P** - Put to Another use
+
 **E** - Eliminate
+
 **R** - Reverse
 
 ---
@@ -38,6 +44,32 @@ This method helps in finding a solution by asking questions about existing produ
 - Negative Brainstorming method encourages a team to explore new solutiosn by thinking about things that do not seem to be inherently useful
 
 ---
+## 👨‍💻 Case study: Enhancing narrow width steel with new annealing-pickling technique
+### Context
+A steel manufacturer faces compliants from niche customers about durability loss in narrow-width coils post annealing-pickling. The team needs to assess alternative process combinations to balance:
+- Durability (meansured in bend test score)
+- Surface finish
+- Cost
+- Cycle time
+- Sustainability
 
+### Objective
+1. **Pugh Analysis**: To compare multiple process combinations
+2. **SCAMPER**: To ideate process improvements beyond conventional choices
+
+### Techniques to evaluate
+1. *Conventional Nitrogen Annealing + Acid Pickling*
+2. *Hydrogen Annealing + Electro Pickling*
+3. *Vacuum Annealing + Citric Acid Bath*
+4. *Bright annealing + Low-temperature Pickling*
+
+### Evaluation Criteria (for Pugh matrix)
+- Durability
+- Surface finish quality
+- Cost efficiency
+- Cycle time
+- Sustainability
+
+### Excel VBA code: Pugh Analysis for Technique selection
 
 
