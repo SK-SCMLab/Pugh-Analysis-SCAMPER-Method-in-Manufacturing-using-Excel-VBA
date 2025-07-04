@@ -153,3 +153,4 @@ A steel manufacturer faces compliants from niche customers about durability loss
 - Lean & Six Sigma fundamentals
 
 ---
+*"Excel is a canvas on which data paints its story"*
